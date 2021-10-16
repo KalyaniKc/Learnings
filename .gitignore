@@ -1,2 +1,7 @@
 
 .DS_Store
+*.xcworkspacedata
+WarCardGame/WarCardGame/WarCardGame.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+WarCardGame/WarCardGame/WarCardGame.xcodeproj/project.xcworkspace/xcuserdata/kalyani.chinchane.xcuserdatad/UserInterfaceState.xcuserstate
+WarCardGame/WarCardGame/WarCardGame.xcodeproj/xcuserdata/kalyani.chinchane.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+WarCardGame/WarCardGame/WarCardGame.xcodeproj/xcuserdata/kalyani.chinchane.xcuserdatad/xcschemes/xcschememanagement.plist
